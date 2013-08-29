@@ -17,7 +17,7 @@ You have to meet the following requirements before running the program:
 <li>NPOI Excel library.</li>
 </ul>
 
-http://download-codeplex.sec.s-msft.com/Download?ProjectName=exportfilebyjqueryaspnet&DownloadId=721680
+<img src="http://download-codeplex.sec.s-msft.com/Download?ProjectName=exportfilebyjqueryaspnet&DownloadId=721680" alt="Progress" title="Progress"/>
 
 ### MORE INFORMATION ###
 In order to know the further details, please go to the web address (https://exportfilebyjqueryaspnet.codeplex.com/) and (https://jqueryunifiedexportfile.codeplex.com/)
